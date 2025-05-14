@@ -16,5 +16,8 @@ TARGET_OTA_ASSERT_DEVICE := OP5911
 # Display
 TARGET_SCREEN_DENSITY := 480
 
+# Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+
 # Include the proprietary files BoardConfig.
 include vendor/oneplus/qqcandy/BoardConfigVendor.mk
