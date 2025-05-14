@@ -18,6 +18,8 @@ PRODUCT_NAME := lineage_qqcandy
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
+PRODUCT_CHARACTERISTICS := nosdcard
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="sys_mssi_64_cn_armv82-user 15 AP3A.240617.008 1745242759663 release-keys" \
     BuildFingerprint=OnePlus/PGZ110/OP5911:15/AP3A.240617.008/S.1d823d3-1_1:user/release-keys \
