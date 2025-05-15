@@ -1,2 +1,5 @@
+# Bluetooth
+bluetooth.device.default_name=OnePlus Ace Race
+
 # USB
 vendor.usb.product_string=OnePlus Ace Race
