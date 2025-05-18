@@ -1,6 +1,11 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus Ace Race (PGZ110_15.0.0.800(CN01).
 
+# Bluetooth
+vendor/firmware/BT_FW_21143.cfg
+vendor/firmware/BT_FW_22047.cfg
+vendor/firmware/BT_FW_22801.cfg
+
 # Miscellaneous
 odm/bin/crossbuild/DataSet/SQLiteModule/db/ae/mt6895/ParameterDB_ae.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/ae/ParameterDB_ae.db;MAKE_COPY_RULE_ONLY
 odm/bin/crossbuild/DataSet/SQLiteModule/db/af/mt6895/ParameterDB_af.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/af/ParameterDB_af.db;MAKE_COPY_RULE_ONLY
